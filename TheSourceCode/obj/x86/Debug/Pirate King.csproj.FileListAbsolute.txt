@@ -1,0 +1,8 @@
+C:\Users\sarpc\Desktop\TheSourceCode\bin\Debug\Pirate King.exe.config
+C:\Users\sarpc\Desktop\TheSourceCode\bin\Debug\Pirate King.exe
+C:\Users\sarpc\Desktop\TheSourceCode\bin\Debug\Pirate King.pdb
+C:\Users\sarpc\Desktop\TheSourceCode\obj\x86\Debug\Pirate King.csproj.AssemblyReference.cache
+C:\Users\sarpc\Desktop\TheSourceCode\obj\x86\Debug\Pirate King.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarpc\Desktop\TheSourceCode\obj\x86\Debug\Pirate King.csproj.CoreCompileInputs.cache
+C:\Users\sarpc\Desktop\TheSourceCode\obj\x86\Debug\Pirate King.exe
+C:\Users\sarpc\Desktop\TheSourceCode\obj\x86\Debug\Pirate King.pdb
